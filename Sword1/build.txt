@@ -1,0 +1,3 @@
+displayName = Dante Sword
+author = Dtay234
+version = 0.1
